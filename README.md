@@ -14,3 +14,7 @@ The Evaluation metric is to get the best accuracy
 
 The data Features include tweet_id, airline_sentiment, airline_sentiment_confidence, negativereason, negativereason_confidence, airline,
 airline_sentiment_gold, name, negativereason_gold, retweet_count, text, tweet_coord, tweet_created, tweet_location, user_timezone 
+
+- Modelling
+
+The Model used are Support vector machine(SVM) and Random Forest Classifier (RFC)
