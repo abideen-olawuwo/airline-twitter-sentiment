@@ -4,4 +4,4 @@ A sentiment analysis job about the problems of each major U.S. airline. Twitter 
 
 - Data
 
-The data was donloaded from kaggle[https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment]
+The data was downloaded from kaggle[https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment]
