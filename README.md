@@ -9,3 +9,8 @@ The data was downloaded from kaggle[https://www.kaggle.com/datasets/crowdflower/
 - Evaluation
 
 The Evaluation metric is to get the best accuracy 
+
+- Features
+
+The data Features include tweet_id, airline_sentiment, airline_sentiment_confidence, negativereason, negativereason_confidence, airline,
+airline_sentiment_gold, name, negativereason_gold, retweet_count, text, tweet_coord, tweet_created, tweet_location, user_timezone 
